@@ -4,7 +4,7 @@ A practice landing page built as part of [The Odin Project](https://www.theodinp
 
 ## Live Preview
 
-[iceluv0x.github.io/web-page-sample](https://iceluv0x.github.io/web-page-sample)
+[iceluv0x.github.io/landing-page-blackdiv](https://iceluv0x.github.io/landing-page-blackdiv/)
 
 ## About
 
